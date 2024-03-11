@@ -10,6 +10,5 @@ Initial Function()
   		{
 		  //sampl code feature1
   		}
-}  
-} 
+}  }
 
